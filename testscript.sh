@@ -2,5 +2,5 @@
 echo "This is a test script"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "THIS is  Done"
+echo "THIS is DONE"
 
